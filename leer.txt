@@ -1,0 +1,2 @@
+* el programa funciona  con decimales con punto(.)
+* el programa recibe  numero negativos(-)
